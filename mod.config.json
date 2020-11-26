@@ -5,6 +5,7 @@
     "license": "MIT",
     "version": "1.0.1",
     "dependencies": [],
+    "autoupdate": true,
     "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-5-7LB-/main/updater.json",
     "src":{
       "src/modloader.js": "CacheModLoad",
