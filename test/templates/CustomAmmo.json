@@ -1,0 +1,7 @@
+{
+    "Id": "CustomAmmo",
+    "ParentId": "Custom5-7LB",
+    "Icon": "/files/handbook/icon_ammo.png",
+    "Color": "",
+    "Order": "2"
+}

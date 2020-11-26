@@ -1,0 +1,10 @@
+{
+	"_id": "5.7LB-Mag",
+	"_tpl": "5.7LB-Mag",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

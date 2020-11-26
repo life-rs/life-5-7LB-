@@ -1,0 +1,39 @@
+{
+    "name": "AMR",
+    "author": "life",
+    "description": "Anti-Material Rifle",
+    "license": "MIT",
+    "version": "1.0.1",
+    "dependencies": [],
+    "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-5-7LB-/main/updater.json",
+    "src":{
+      "src/modloader.js": "CacheModLoad",
+      "src/categories.js": "CacheModLoad"
+    },
+    "folders": [
+    "files/assort/ragfair",
+    "files/items",
+    "files/locales/en",
+    "files/templates"
+    ],
+    "filenames": [
+      "5.7-5inchBar",
+      "5.7-7inchBar",
+      "5.7-10.5inchBar",
+      "5.7-14inchBar",
+      "5.7Death",
+      "5.7LB",
+      "5.7LB-ExtMag",
+      "5.7LB-Mag",
+      "5.7Receiver"
+    ],
+    "categ": [
+      "test/handbook",
+      "test/templates"
+    ],
+    "things": [
+      "Custom5-7LB",
+      "5-7LBParts",
+      "CustomAmmo"
+    ]
+  }
