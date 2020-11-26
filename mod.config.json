@@ -9,7 +9,8 @@
     "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-5-7LB-/main/updater.json",
     "src":{
       "src/modloader.js": "CacheModLoad",
-      "src/categories.js": "CacheModLoad"
+      "src/categories.js": "CacheModLoad",
+      "src/life.js": "CacheModLoad"
     },
     "folders": [
     "files/assort/ragfair",
