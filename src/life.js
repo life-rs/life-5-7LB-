@@ -12,7 +12,7 @@ exports.mod = () => {
         return;
     }
 
-    logger.logInfo("Caching: life-5-7LB");
+    logger.logInfo("Caching: life-5.7LB");
 
     let base = fileIO.parse(fileIO.read(db.user.cache.items));
 
@@ -41,5 +41,5 @@ exports.mod = () => {
             }
         }
         fileIO.write("user/cache/items.json", base);
-	logger.logSuccess("[MOD] 5-7LBAmmo; Applied");
+	logger.logSuccess("[MOD] 5.7LBAmmo; Applied");
 }
