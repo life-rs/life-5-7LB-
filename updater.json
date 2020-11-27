@@ -1,7 +1,7 @@
 {
-    "name": "LifeMechanisms",
+    "name": "5.7LB",
     "author": "life",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "forceDowngrade": false,
     "downloadUpdateUrl": "https://github.com/life-rs/life-5-7LB-/archive/main.zip",
     "excludeFromUpdate": [
