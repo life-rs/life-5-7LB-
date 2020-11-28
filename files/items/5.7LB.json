@@ -240,7 +240,7 @@
 			}
 		],
 		"CameraRecoil": 0.2,
-		"CameraSnap": 1.5,
+		"CameraSnap": 3.5,
 		"ReloadMode": "ExternalMagazine",
 		"CenterOfImpact": 0,
 		"AimPlane": 0.16,
